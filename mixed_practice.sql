@@ -1,5 +1,5 @@
 -- (practice01 - practice07) are about INNER JOIN and LEFT JOIN
--- (practice08 - practice16) are from Midterm Test at TNI on 2026-01-26
+-- (practice08 - practice16) are from Midterm Test at TNI on 2026-01-23
 
 
 -- practice01
